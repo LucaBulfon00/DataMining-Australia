@@ -1,4 +1,4 @@
-<h1>Will it Rain in Australia</h1>
+<h1>Will it Rain in Australia?</h1>
 
 <h2>Project Description and Scope</h2>
 The scope of this project is to analyze multiple measurements of different meteorological parameters  during a day (temperature, wind, humidity, pressure…) and predict whether it will rain tomorrow or not. The project uses data from the Australian Bureau of Meteorology (BOM) contained inside a dataset available on Kaggle.com. This project used data mining techniques to analyze a dataset with a binary target variable: whether it will rain the next day, implementing a set of different models to explore their effectiveness on this dataset. Firstly, K-Nearest Neighbors (KNN) and Naive Bayes classifiers were implemented, known for their simplicity and efficiency in handling classification problems. Then, a Random Forest classifier was built, which offers robustness against overfitting and can handle complex interactions between features. Finally, to investigate the influence of temporal patterns in the weather data, we included a Long Short-Term Memory (LSTM) neural network.
