@@ -14,6 +14,11 @@ The scope of this project is to analyze multiple measurements of different meteo
 
 - <b>Google Colab</b>
 
+<h2>Files</h2>
+
+- <b>Australia.ipynb:</b> is the Python notebook where we created and run the models.
+- <b>Australia.pptx:</b> is a short powerpoint presentation which exaplains the models we used and the results we pulled.
+- <b>Australia.docx:</b> is a comprehensive analysis, in which all the details of the dataset and the logic behind the whole project are explained.
 <!--
  ```diff
 - text in red
