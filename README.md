@@ -16,9 +16,9 @@ The scope of this project is to analyze multiple measurements of different meteo
 
 <h2>Files</h2>
 
-- <b>Australia.ipynb:</b> is the Python notebook where we created and run the models.
-- <b>Australia.pptx:</b> is a short powerpoint presentation which exaplains the models we used and the results we pulled.
-- <b>Australia.docx:</b> is a comprehensive analysis, in which all the details of the dataset and the logic behind the whole project are explained.
+- <b>[Australia.ipynb](https://www.kaggle.com/code/lucabulfon/australia-ipynb):</b> is the Python notebook where we created and run the models.
+- <b>[Australia.pptx](https://docs.google.com/presentation/d/1dG00Odp_ab1BeH4qfIj45w88aFHBIT4y/pub?start=false&loop=false&delayms=5000&slide=id.p1):</b> is a short powerpoint presentation which exaplains the models we used and the results we pulled.
+- <b>[Australia.docx]():</b> is a comprehensive analysis, in which all the details of the dataset and the logic behind the whole project are explained.
 <!--
  ```diff
 - text in red
